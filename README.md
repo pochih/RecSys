@@ -4,8 +4,7 @@
 
 
 ### Factorization Machine
-- DeepFM [[Paper](https://www.ijcai.org/proceedings/2017/0239.pdf)] [[Review](reviews/DeepFM.md)]
-    - Huifeng Guo, Ruiming Tang, Yunming Ye, Zhenguo Li, Xiuqiang He
+- DeepFM (IJCAI 17') [[Paper](https://www.ijcai.org/proceedings/2017/0239.pdf)] [[Review](reviews/DeepFM.md)]
 - AFM (IJCAI 17')
 - NFM (SIGIR 17')
 - FFM (RecSys 16')
