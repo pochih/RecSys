@@ -1,6 +1,6 @@
 ## DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
 
-Huifeng Guo, Ruiming Tang, Yunming Ye, Zhenguo Li, Xiuqiang He, IJCAI, 2017
+Huifeng Guo, Ruiming Tang, Yunming Ye, Zhenguo Li, Xiuqiang He, IJCAI 17'
 
 ### Summary
 - 任務：做在 CTR (click-through rate)，也就是點擊率預測。基本上就是個 binary classification 問題 (點擊 or 沒點)
