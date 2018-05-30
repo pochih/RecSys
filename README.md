@@ -6,7 +6,7 @@
 ### Factorization Machine
 - DeepFM (IJCAI '17) [[Paper](https://www.ijcai.org/proceedings/2017/0239.pdf)] [[Review](reviews/DeepFM.md)]
 - AFM (IJCAI '17)
-- NFM (SIGIR '17)
+- NFM (SIGIR '17) [[Paper](https://arxiv.org/abs/1708.05027)] [[Review](reviews/NFM.md)]
 - FFM (RecSys '16)
 - FM (ICDM '10)
 
